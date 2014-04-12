@@ -33,9 +33,10 @@ bmukorera
 <preference name="target-device" value="universal" />
 
 <!-- Define app icon MAIN ROOT Platform. -->
+ <icon src="icon.png" />
 
 <!-- Define app icon ANDROID Platform. -->
 
-<accesss origin="*" />
+<accesss  />
 
 </widget>
