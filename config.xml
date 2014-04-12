@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+
+xmlns:gap = "http://phonegap.com/ns/1.0"
+
+id = "bmukorera.com"
+
+version = "1.1.0">
+
+<name>Anglican Shona Hymns</name>
+
+<description>
+
+Anglican Shona Hymn Book
+
+</description>
+
+<author href="http://www.bmukorera.com" email="bmukorera@gmail.com">
+
+bmukorera
+
+</author>
+
+<!-- Customize your app and platform with the preference element. -->
+
+<preference name="phonegap-version" value="2.7.0" />
+
+<preference name="orientation" value="default" />
+
+<preference name="target-device" value="universal" />
+
+<!-- Define app icon MAIN ROOT Platform. -->
+
+<!-- Define app icon ANDROID Platform. -->
+
+<accesss origin="*" />
+
+</widget>
