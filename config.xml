@@ -31,6 +31,7 @@ bmukorera
 <preference name="orientation" value="default" />
 
 <preference name="target-device" value="universal" />
+<preference name="android-minSdkVersion" value="14" />
 
 <!-- Define app icon MAIN ROOT Platform. -->
  <icon src="icon.png" />
